@@ -49,3 +49,15 @@ Criar a rota POST/post e POST/upload;
 Implementar o upload de imagens;
 
 Testar a API com thunderClient e Postman.
+
+### Aula 05 : 
+
+Fazer a lógica de armazenamento de imagens no servidor;
+
+Criar a rota PUT para atualização de post;
+
+Integrar com o Frontend;
+
+Integrar com a API do Gemini;
+
+Fazer o deploy do back-end na Google Cloud.
